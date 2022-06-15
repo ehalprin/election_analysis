@@ -6,7 +6,7 @@ A Colorado Board of Elections employee, Tom, requested help to complete an audit
 
 ## Resources
 - Data Source: [election_results.csv](resources/election_results.csv)
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.7.6, Visual Studio Code, 1.68.1
 
 ## Election Audit Results
 Using Python, I wrote a code to compile all the votes and sort them by (1) who each vote was cast for, and (2) where each vote originated from. This was determined using "for" loops, to run through each row, create a list of unique candidate and county names, and then using an accumulator to total up the counts for each candidate and each county.
