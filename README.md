@@ -21,7 +21,7 @@ Using Python, I wrote a code to compile all the votes and sort them by (1) who e
 
 Here's an example:
 
-![Example of for loop](resources/for loop example.png)
+![Example of for loop](https://github.com/ehalprin/election_analysis/blob/main/resources/for%20loop%20example.png)
 
 
 The analysis of the election shows that:
