@@ -27,21 +27,21 @@ Here's an example:
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
-      - Charles Casper Stockham
-      - Diana DeGette
-      - Raymon Anthony Doane
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-      - Charles Casper Stockham received 23.0% of the votes (85,213 total votes)
-      - Diana DeGette received 73.8% of the votes (272,892 total votes)
-      - Raymon Anthony Doane received 3.1% of the votes (11,606 total votes)
+  - Charles Casper Stockham received 23.0% of the votes (85,213 total votes)
+  - Diana DeGette received 73.8% of the votes (272,892 total votes)
+  - Raymon Anthony Doane received 3.1% of the votes (11,606 total votes)
 - The winner of the election was:
-      - Diana DeGette, who received 73.8% of the vote, and 272,892 total votes.
+  - Diana DeGette, who received 73.8% of the vote, and 272,892 total votes.
 - The county results were:
-      - Jefferson County represented 10.5% of the votes (38,855 total votes)
-      - Denver County represented 82.8% of the votes (306,055 total votes)
-      - Arapahoe County represented 6.7% of the votes (24,801 total votes)
+  - Jefferson County represented 10.5% of the votes (38,855 total votes)
+  - Denver County represented 82.8% of the votes (306,055 total votes)
+  - Arapahoe County represented 6.7% of the votes (24,801 total votes)
 - The county with the largest turnout was:
-      - Denver County, which represented 82.8% of the votes, and 306,055 total votes.
+  - Denver County, which represented 82.8% of the votes, and 306,055 total votes.
 
 ## Challenge Overview
 
