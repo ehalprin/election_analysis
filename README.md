@@ -11,4 +11,4 @@ A Colorado Board of Elections employee, Steve, requested help to complete an aud
 5. Determine the winner of the election, based on popular vote.
 
 ## Resources
-- Data Source: [election_results.csv](election_results.csv)
+- Data Source: [election_results.csv](resources/election_results.csv)
